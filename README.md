@@ -1,7 +1,7 @@
 # Explainable Autoencoder-Based Anomaly Detection for Prescriptive Maintenance Optimization in Data Center Cooling Systems
 
 **Course:** Deep Learning (CS5204) | **Institution:** RV University, School of CSE  
-**Author:** Nilanjana Jamindar (1RUB25CSE0013) | **Guide:** Dr. Karthikeyan Periyasami
+**Author:** Nilanjana Jamindar | **Guide:** Dr. Karthikeyan Periyasami
 
 ---
 
