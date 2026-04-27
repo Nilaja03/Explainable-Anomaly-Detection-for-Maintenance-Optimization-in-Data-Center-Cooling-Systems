@@ -28,7 +28,6 @@ High-performance data centers face thermal anomaly issues due to increased heat 
 │   ├── WebApp Screenshot - Anomaly 2.png         # Screenshot showing Anomaly-1 on the WebApp
 │   ├── WebApp Screenshot - Anomaly 3.png         # Screenshot showing Anomaly-1 on the WebApp
 │   └── WebApp Screenshot - Healthy system.png    # Screenshot chowing Healthy System on the WebApp
-├── Preprint - Research Paper or Report.pdf       # IEEE-format final report (submitted to ASSIC 2026)
 └── LICENSE                                       # GNU Affero General Public License v3.0
 ```
 
