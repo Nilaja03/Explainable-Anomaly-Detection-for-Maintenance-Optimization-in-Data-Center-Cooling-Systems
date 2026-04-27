@@ -118,7 +118,7 @@ jupyter notebook notebooks/Final_Data_Center_DL_Project.ipynb
 ```
 
 ### 4. Launch the Streamlit Dashboard (Optional)
-The notebook writes and launches `DCapp.py` via `pyngrok`. To run it locally:
+The notebook writes and launches `DCapp.py` via `pyngrok`. To run it locally (add your ngrok API Key first):
 ```bash
 streamlit run DCapp.py
 ```
