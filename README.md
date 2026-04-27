@@ -21,11 +21,15 @@ High-performance data centers face thermal anomaly issues due to increased heat 
 ├── /notebooks
 │   └── Final_Data_Center_DL_Project.ipynb  # Full training, evaluation & deployment notebook
 ├── /results
-│   ├── distributions.png            # Sensor feature distributions
-│   ├── correlation_matrix.png       # Pearson correlation heatmap
-│   └── reconstruction_accuracy.png  # Visual reconstruction accuracy plot
-├── report.pdf                       # IEEE-format final report (submitted to ASSIC 2026)
-└── LICENSE                          # GNU Affero General Public License v3.0
+│   ├── distributions.png                         # Sensor feature distributions
+│   ├── correlation_matrix.png                    # Pearson correlation heatmap
+│   ├── reconstruction_accuracy.png               # Visual reconstruction accuracy plot
+│   ├── WebApp Screenshot - Anomaly 1.png         # Screenshot showing Anomaly-1 on the WebApp
+│   ├── WebApp Screenshot - Anomaly 2.png         # Screenshot showing Anomaly-1 on the WebApp
+│   ├── WebApp Screenshot - Anomaly 3.png         # Screenshot showing Anomaly-1 on the WebApp
+│   └── WebApp Screenshot - Healthy system.png    # Screenshot chowing Healthy System on the WebApp
+├── report.pdf                 # IEEE-format final report (submitted to ASSIC 2026)
+└── LICENSE                    # GNU Affero General Public License v3.0
 ```
 
 ---
