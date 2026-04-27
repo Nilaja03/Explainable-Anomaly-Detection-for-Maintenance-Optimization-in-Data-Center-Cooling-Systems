@@ -14,12 +14,12 @@ High-performance data centers face thermal anomaly issues due to increased heat 
 ## Repository Structure
 
 ```
-├── README.md                        # Project overview and setup instructions
-├── requirements.txt                 # Python dependencies
+├── README.md                                     # Project overview and setup instructions
+├── requirements.txt                              # Python dependencies
 ├── /data
-│   └── cold_source_control_dataset.csv   # Sensor telemetry dataset (Kaggle)
+│   └── cold_source_control_dataset.csv           # Sensor telemetry dataset (Kaggle)
 ├── /notebooks
-│   └── Final_Data_Center_DL_Project.ipynb  # Full training, evaluation & deployment notebook
+│   └── Final_Data_Center_DL_Project.ipynb        # Full training, evaluation & deployment notebook
 ├── /results
 │   ├── distributions.png                         # Sensor feature distributions
 │   ├── correlation_matrix.png                    # Pearson correlation heatmap
@@ -28,8 +28,8 @@ High-performance data centers face thermal anomaly issues due to increased heat 
 │   ├── WebApp Screenshot - Anomaly 2.png         # Screenshot showing Anomaly-1 on the WebApp
 │   ├── WebApp Screenshot - Anomaly 3.png         # Screenshot showing Anomaly-1 on the WebApp
 │   └── WebApp Screenshot - Healthy system.png    # Screenshot chowing Healthy System on the WebApp
-├── report.pdf                 # IEEE-format final report (submitted to ASSIC 2026)
-└── LICENSE                    # GNU Affero General Public License v3.0
+├── Preprint - Research Paper or Report.pdf       # IEEE-format final report (submitted to ASSIC 2026)
+└── LICENSE                                       # GNU Affero General Public License v3.0
 ```
 
 ---
