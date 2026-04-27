@@ -85,7 +85,7 @@ Input (8) → Dense/ReLU (16) → Bottleneck/ReLU (4) → Dense/ReLU (16) → Ou
 | LSTM-Autoencoder | 2.647 | 1.198 | 0.141 | 14 | Historical Analysis |
 | One-Class SVM | 1.978 | -0.802 | 0.108 | 20 | Clustered Data |
 
-**Overall Reconstruction Accuracy (R²): 97.34%**
+**Overall Reconstruction Accuracy: 97.34%**
 
 ---
 
