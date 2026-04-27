@@ -24,7 +24,8 @@ High-performance data centers face thermal anomaly issues due to increased heat 
 │   ├── distributions.png            # Sensor feature distributions
 │   ├── correlation_matrix.png       # Pearson correlation heatmap
 │   └── reconstruction_accuracy.png  # Visual reconstruction accuracy plot
-└── report.pdf                       # IEEE-format final report (submitted to ASSIC 2026)
+├── report.pdf                       # IEEE-format final report (submitted to ASSIC 2026)
+└── LICENSE                          # GNU AFFERO GENERAL PUBLIC LICENSE
 ```
 
 ---
